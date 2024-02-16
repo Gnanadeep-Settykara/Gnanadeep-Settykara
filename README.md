@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=venom&&height=200&section=header&text=I'm%20Gnanadeep.&fontColor=fde8e8&fontSize=50&customColorList=0,2,2,50,90)
+![header](https://capsule-render.vercel.app/api?type=venom&&height=200&section=header&text=I'm%20Gnanadeep.&fontColor=000000&fontSize=50&customColorList=0,2,2,50,90)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gnanadeep-settykara&label=Profile%20views&color=0e75b6&style=flat" alt="gnanadeep-settykara" /> </p>
 
