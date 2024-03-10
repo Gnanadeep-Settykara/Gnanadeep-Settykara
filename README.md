@@ -17,8 +17,8 @@
 - 📫 How to reach me **gsettyka@asu.edu**
 
 - 📄 Know about my experiences:
-  - [SDE Resume](https://drive.google.com/file/d/1Lm8kx8xLisGk_EnZw5PNcVo8Dck-IfRT/view?usp=sharing)
-  - [Data Analyst Resume](https://drive.google.com/file/d/1TQvIqyFZ9fp5g6Hep7SxuuoA0bEig6fN/view?usp=sharing)
+  - [SDE Resume](https://drive.google.com/file/d/1K0QKBkHYj5s7L6S7eQAlXcY-KEjwlWHt/view?usp=sharing)
+  - [Data Analyst Resume](https://drive.google.com/file/d/1P1-AwHtynlgyDrgORP7NObqYUxpZ_16a/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
