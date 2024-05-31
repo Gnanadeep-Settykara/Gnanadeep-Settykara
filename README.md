@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gnanadeep-settykara&label=Profile%20views&color=0e75b6&style=flat" alt="gnanadeep-settykara" /> </p>
 
-💼 MS SE @ ASU • Software Engineer • Full-stack Developer     
+💼 MS SE @ ASU • Data Engineer • Data Analyst • Software Engineer     
 💻 Programming languages • ML/AI • DevOps      
 📖 Software architecture • Distributed systems     
 🚀 SDLC & CI/CD • DSA • MERN Stack • NLP    
